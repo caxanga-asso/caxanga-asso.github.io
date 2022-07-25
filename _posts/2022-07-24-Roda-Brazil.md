@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "24/07/2022: Roda Brazil"
 categories:
   - Evenement
