@@ -1,5 +1,5 @@
 ---
-title: "24/07/2022: Roda Brazil"
+title: "Roda Brazil"
 categories:
   - Evenement
 tags:
