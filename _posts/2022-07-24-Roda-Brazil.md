@@ -1,5 +1,4 @@
 ---
-layout: post
 title: "24/07/2022: Roda Brazil"
 categories:
   - Evenement
@@ -9,8 +8,10 @@ tags:
   - Culinaire
   - Rennes
   - Samba
-  - La Basse Cour
+  - LaBasseCour
 ---
+
+# Roda Brazil à la Basse Cour !
 
 Ce dimanche 24/07/2022 l'asso Caxangá a organisé avec les amis de La Basse Cour un très beau événement pour célébrer la culture brésilienne !
 
